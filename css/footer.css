@@ -1,0 +1,80 @@
+.footer-top{
+    height: 75px;
+    margin:27px 0;
+    color:#616161;
+    border-bottom: 1px solid #e0e0e0;
+}
+.footer-top a{
+    height: 20px;
+    line-height: 20px;
+    border-right: 1px solid #e0e0e0;
+    width: 20%;
+    text-align: center;
+}
+.footer-top .iconfont{
+    font-size: 26px;
+    vertical-align: -4px;
+}
+.footer-top a:last-child{
+    border-right: none;
+}
+.footer-bottom{
+    padding:40px 0;
+}
+.footer-links{
+    color:#757575;
+    width:160px;
+    
+}
+.footer-links a{
+    display: block;
+    font-size: 12px;
+    margin-top: 10px;
+}
+.footer-links h3{
+    font-weight:normal;
+    font-size:14px;
+    color:#424242;
+    margin-bottom: 17px;
+}
+.contact{
+    width:245px;
+    border-left:1px solid #e0e0e0;
+    font-size: 12px;
+    text-align: center;
+}
+.contact .footer-phone{
+    font-size:22px;
+    color:#f40;
+}
+.contact .footer-desc{
+    color:#757575;
+}
+.contact .kf{
+    width:118px;
+    color: #f40;
+    border: 1px solid #f40;
+    display:block;
+    margin:6px auto;
+    height: 30px;
+    line-height: 30px;
+}
+.kf .iconfont{
+    vertical-align: -1px;
+    font-size: 14px;
+}
+.contact i:hover
+{
+    color: #f40;
+}
+.contact .kf:hover
+{
+    background-color: #f40;
+    color:#fff;
+}
+.footer-guanzhu i{
+    font-size: 20px;
+}
+.footer-guanzhu{
+    font-size: 15px;
+}

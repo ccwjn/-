@@ -1,0 +1,82 @@
+.main {
+  background: #f5f5f5;
+  height: 850px;
+  padding: 22px 0;
+  margin-top: 200px;
+}
+/* banner3 */
+.banner3 {
+  display: block;
+  /* background: red; */
+  /* padding-top:22px; */
+}
+.banner3 img {
+  width: 100%;
+  display: block;
+}
+
+.sc
+{
+  margin-top:10px;
+}
+.sc-top{
+  height: 58px;
+  line-height: 58px;
+}
+.sc-title{
+  font-size: 22px;
+  font-weight: normal;
+}
+
+.sc-more .iconfont{
+  background-color: #aaa;
+  color:#fff;
+  width:20px;
+  height: 20px;
+  line-height: 20px;
+  font-size: 12px;
+  border-radius: 50%;
+  text-align: center;
+  display: inline-block;
+}
+.sc-more:hover .iconfont{
+  background-color: #f40;
+}
+.sc-item-first img{
+  width:234px;
+  height: 614px;
+  margin-right: 14px;
+}
+.sc-item{
+  background-color: #fff;
+  margin-right: 14px;
+  margin-bottom: 14px;
+  width:234px;
+  height: 300px;
+  text-align: center;
+}
+.sc-item-list{
+  width: 978px;
+}
+.sc-item img{
+  margin-top: 20px;
+  height: 160px;
+  width: 160px;
+}
+
+.sc-item-list .sc-name{
+  color: #000;
+  font-size: 12px;
+}
+.sc-item-list .sc-desc{
+  color: #b0b0b0;
+  font-size: 12px;
+  margin-top: 3px;
+  margin-bottom: 10px;
+}
+.sc-item-list .sc-price{
+  color: #f40;
+}
+.sc-item:nth-child(4n){
+  margin-right: 0;
+}
